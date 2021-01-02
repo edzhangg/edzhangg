@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, my name is Eddy! 👋
+I'm a high school student in the Greater Toronto Area, Canada!
 <!--
 **edzhangg/edzhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
