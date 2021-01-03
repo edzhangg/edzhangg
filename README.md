@@ -2,6 +2,7 @@
 I'm a high school student in the Greater Toronto Area, Canada! I am currently in Grade 12, in the IB (International Baccalaureate) Program. 
 
 🌱 I’m currently learning and refining my skills in Python and in web development
+
 📫 How to reach me: 
 - You can email me at edzhangg@gmail.com
 - or let's connect on LinkedIn: linkedin.com/in/edzhangg
