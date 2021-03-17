@@ -5,7 +5,7 @@ I'm a high school student in the Greater Toronto Area, Canada! I am currently in
 
 📫 How to reach me: 
 - You can email me at edzhangg@gmail.com
-- Let's connect on LinkedIn: linkedin.com/in/edzhangg
+- Let's connect on [LinkedIn](linkedin.com/in/edzhangg)
 <!--
 **edzhangg/edzhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
