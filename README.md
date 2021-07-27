@@ -1,7 +1,7 @@
-### Hi there, my name is Eddy! 👋
-I'm a high school student in the Greater Toronto Area, Canada! I am currently in Grade 12, in the IB (International Baccalaureate) Program. 
+### Hi there, my name is Eddy Zhang (he/him)! 👋
+I'm a 1A Mechatronics Engineering student at the University of Waterloo, based in the Greater Toronto Area, Canada!  
 
-🌱 I’m currently learning and refining my skills in Python, JavaScript, and in web development
+🌱 I’m currently learning and refining my skills in Python, C, and in web development
 
 📫 How to reach me: 
 - You can email me at edzhangg@gmail.com
