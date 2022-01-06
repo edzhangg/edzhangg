@@ -1,5 +1,5 @@
 ### Hi there, my name is Eddy Zhang (he/him)! 👋
-I'm a 1A Mechatronics Engineering student at the University of Waterloo, based in the Greater Toronto Area, Canada!  
+I'm a 1B Mechatronics Engineering student at the University of Waterloo, based in the Greater Toronto Area, Canada!  
 
 🌱 I’m currently learning and refining my skills in Python, C++, and in web development
 
