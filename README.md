@@ -1,10 +1,10 @@
 ### Hi there, my name is Eddy Zhang (he/him)! 👋
-I'm a 3A Mechatronics Engineering student at the University of Waterloo, based in the Greater Toronto Area, Canada!  
+I'm a 4A Mechatronics Engineering student at the University of Waterloo, based in the Greater Toronto Area, Canada!  
 
 🌱 I’m currently learning and refining my skills in Python, C++, and in artificial intelligence
 
 📫 How to reach me: 
-- You can email me at edzhangg@gmail.com
+- You can email me at [e82zhang@uwaterloo.ca](mailto:e82zhang@uwaterloo.ca)
 - Let's connect on LinkedIn: [edzhangg](https://linkedin.com/in/edzhangg)
 <!--
 **edzhangg/edzhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
