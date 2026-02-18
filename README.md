@@ -4,7 +4,7 @@ I'm a 4B Mechatronics Engineering student at the University of Waterloo, based i
 🌱 I’m currently learning and refining my skills in Python, C++, and in artificial intelligence
 
 📫 How to reach me: 
-- You can email me at [e82zhang@uwaterloo.ca](mailto:e82zhang@uwaterloo.ca)
+- You can email me at [eddy.zhang@uwaterloo.ca](mailto:eddy.zhang@uwaterloo.ca)
 - Let's connect on LinkedIn: [edzhangg](https://linkedin.com/in/edzhangg)
 <!--
 **edzhangg/edzhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
